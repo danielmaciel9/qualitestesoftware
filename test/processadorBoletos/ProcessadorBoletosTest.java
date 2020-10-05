@@ -18,7 +18,6 @@ import org.junit.jupiter.api.Test;
 
 import boleto.Boleto;
 import fatura.Fatura;
-import produto.Produto;
 
 @DisplayName("Classe para teste dos processamentos dos boletos")
 public class ProcessadorBoletosTest {
